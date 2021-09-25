@@ -8,7 +8,7 @@ import ProjectItem from './project/ProjectItem'
             
             <div className="projects">
             <div className="container">
-                <div classnAME="row">
+                <div className="row">
                     <div className="col-md-12">
                         <h1 className="display-4 text-center">Projects</h1>
                         <br />
