@@ -6,7 +6,7 @@ const CreateProjectButton = () => {
         <div>
             <Link to="/addProject"  className="btn btn-lg btn-info">
                             Create a Project
-                        </Link>
+            </Link>
         </div>
     )
 }
